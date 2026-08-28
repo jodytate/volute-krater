@@ -1,0 +1,17 @@
+# Volute Krater
+
+A child theme for the [*Volute Krater*](https://www.volutekrater.org) literary magazine,
+built on [Twenty Twenty-Five](https://wordpress.org/themes/twentytwentyfive/).
+
+The child theme inherits Twenty Twenty-Five's block templates and adds its own palette,
+typography, and link styles through `theme.json` and `style.css`.
+
+This theme extends [Twenty Twenty-Five](https://wordpress.org/themes/twentytwentyfive/).
+
+## Installation
+
+1. Install and activate Twenty Twenty-Five in WordPress.
+2. Copy this folder to `wp-content/themes/volute-krater`.
+3. Activate **Volute Krater** under **Appearance > Themes > Add New**.
+
+The parent theme must remain installed for the child theme to work.

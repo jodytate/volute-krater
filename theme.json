@@ -1,0 +1,68 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "custom": true,
+      "customGradient": true,
+      "defaultGradients": false,
+      "defaultPalette": false,
+      "palette": [
+        {
+          "color": "#edede9",
+          "name": "Paper",
+          "slug": "paper"
+        },
+        {
+          "color": "#111111",
+          "name": "Ink",
+          "slug": "ink"
+        },
+        {
+          "color": "#00468b",
+          "name": "Cobalt",
+          "slug": "cobalt"
+        },
+        {
+          "color": "#8b4500",
+          "name": "Umber",
+          "slug": "umber"
+        }
+      ]
+    },
+    "typography": {
+      "customFontSize": true,
+      "dropCap": false,
+      "fontFamilies": [
+        {
+          "fontFamily": "Crimson Text, Georgia, serif",
+          "name": "Crimson Text",
+          "slug": "crimson-text"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "var(--wp--preset--color--paper)",
+      "text": "var(--wp--preset--color--ink)"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--crimson-text)"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontStyle": "italic",
+          "fontWeight": "400"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--cobalt)"
+        }
+      }
+    }
+  }
+}
