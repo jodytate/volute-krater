@@ -16,6 +16,17 @@ This theme extends [Twenty Twenty-Five](https://wordpress.org/themes/twentytwent
 
 The parent theme must remain installed for the child theme to work.
 
+## Git hooks
+
+Enable the versioned commit hook once after cloning:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+The hook adds the `Assisted-by: GitHub Copilot` trailer to commits that do not
+already contain it.
+
 ## License
 
 Volute Krater is licensed under the GNU General Public License v2.0 or later
