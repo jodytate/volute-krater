@@ -3,7 +3,7 @@
  * Theme URI: https://www.volutekrater.org
  * Description: A literary magazine child theme for Twenty Twenty-Five.
  * Author: Volute Krater
- * Version: 1.0.3
+ * Version: 1.0.4
  * Requires at least: 6.7
  * Requires PHP: 7.2
  * Template: twentytwentyfive
@@ -41,8 +41,8 @@ h6 {
   text-decoration: none;
 }
 
-body .wp-block-site-title,
-body .wp-block-site-title a {
+html body .wp-block-site-title,
+html body .wp-block-site-title a {
   font-weight: 400 !important;
 }
 
