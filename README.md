@@ -15,3 +15,10 @@ This theme extends [Twenty Twenty-Five](https://wordpress.org/themes/twentytwent
 3. Activate **Volute Krater** under **Appearance > Themes > Add New**.
 
 The parent theme must remain installed for the child theme to work.
+
+## License
+
+Volute Krater is licensed under the GNU General Public License v2.0 or later
+(`GPL-2.0-or-later`), like WordPress and the Twenty Twenty-Five parent theme.
+See [LICENSE](LICENSE) for the license notice and the link to the complete
+official license text.
