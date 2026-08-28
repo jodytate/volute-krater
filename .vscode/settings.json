@@ -3,5 +3,13 @@
     "**/.*": false,
     "**/.git": false,
     "**/.gitignore": false
+  },
+  "chat.tools.terminal.autoApprove": {
+    "git status": true,
+    "git diff": true,
+    "git log": true,
+    "git push": false,
+    "rm": false,
+    "sudo": false
   }
 }
