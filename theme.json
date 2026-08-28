@@ -36,7 +36,7 @@
       "dropCap": false,
       "fontFamilies": [
         {
-          "fontFamily": "Crimson Text, Georgia, serif",
+          "fontFamily": "\"Crimson Text\", Georgia, serif",
           "name": "Crimson Text",
           "slug": "crimson-text"
         }
