@@ -49,7 +49,9 @@
       "text": "var(--wp--preset--color--ink)"
     },
     "typography": {
-      "fontFamily": "var(--wp--preset--font-family--crimson-text)"
+      "fontFamily": "var(--wp--preset--font-family--crimson-text)",
+      "fontStyle": "normal",
+      "fontWeight": "400"
     },
     "elements": {
       "heading": {
