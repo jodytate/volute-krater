@@ -16,6 +16,14 @@ This theme extends [Twenty Twenty-Five](https://wordpress.org/themes/twentytwent
 
 The parent theme must remain installed for the child theme to work.
 
+## Packaging
+
+Create the distributable ZIP and increment the patch version automatically:
+
+```sh
+./package-theme.sh
+```
+
 ## Git hooks
 
 Enable the versioned commit hook once after cloning:
